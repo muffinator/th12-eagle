@@ -4,7 +4,6 @@ qty,mfg,partnumber,value,description,designator,footprint,digikey,mouser,notes
 1,,,22u,,L1,SMD1007,587-2190-1-ND,,
 1,,,,"DIODE SCHOTTKY 40V 120MA SOD-523",D1,,568-8118-1-ND,,
 5,,,CONN-4-COMPACT,,"CN1 CN2 CN3 CN4 CN5",1X4-3.5MM-COMPACT,,,"do not place"
-2,"JAE Electronics",NT1R3000,"M2 standoff","Mini PCIe standoffs M2","M1 M2",,670-2481-1-ND,,
 1,,,,,Q1,SOT23-GSD,2N7002-FDICT-ND,,
 1,,,RED,,Q2,LED0603,604-APT1608SRCPRV,,
 1,,,GREEN,,Q3,LED0603,LTST-S270KGKT,,
@@ -13,5 +12,6 @@ qty,mfg,partnumber,value,description,designator,footprint,digikey,mouser,notes
 1,,,220,,R4,SMD0603,P220GCT-ND,,
 1,,,180,,R5,SMD0603,P180GCT-ND,,
 1,,,DHT11/22,,U1,DHT22,,,DHT22/AM2302
+1,"JAE Electronics",MM60-52B1-B1-R850,,"Mini PCIe connector",U2,,,"656-MM60-52B1-B1-R ",
 1,,,NCP1400ASN33T1G,,U3,SOT-23-5,NCP1400ASN33T1GOSCT-ND,,
 2,"JAE Electronics",NT1R3000,"M2 standoff","Mini PCIe standoffs M2","M1 M2",,670-2481-1-ND,,
