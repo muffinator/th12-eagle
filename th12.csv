@@ -1,5 +1,5 @@
 qty,mfg,partnumber,value,description,designator,footprint,digikey,mouser,notes
-1,,,1u,,C1,SMD0603,587-1242-1-ND,,
+2,,,1u,,"C1 C2",SMD0603,587-1242-1-ND,,
 3,,,22u,,"C3 C4 C5",SMD0805,445-1422-1-ND,,
 1,,,22u,,L1,SMD1007,587-2190-1-ND,,
 1,,,,"DIODE SCHOTTKY 40V 120MA SOD-523",D1,,568-8118-1-ND,,
@@ -11,7 +11,7 @@ qty,mfg,partnumber,value,description,designator,footprint,digikey,mouser,notes
 1,,,10k,,R3,SMD0603,P10KGCT-ND,,
 1,,,220,,R4,SMD0603,P220GCT-ND,,
 1,,,180,,R5,SMD0603,P180GCT-ND,,
-2,,,"4.22M 1%",,R6 R7,SMD0603,541-4.22MHCT-ND,,
+2,,,"4.22M 1%",,"R6 R7",SMD0603,541-4.22MHCT-ND,,
 1,,,DHT11/22,,U1,DHT22,,,DHT22/AM2302
 1,"JAE Electronics",MM60-52B1-B1-R850,,"Mini PCIe connector",U2,,,656-MM60-52B1-B1-R,
 1,,,NCP1400ASN33T1G,,U3,SOT-23-5,NCP1400ASN33T1GOSCT-ND,,
