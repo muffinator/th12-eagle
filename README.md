@@ -3,9 +3,7 @@ CAD and Docs for the TH12 sensor
 
 ![TH12 layout](https://raw.github.com/malvira/th12-eagle/master/docs/th12-revD-layout.png)
 
-<a href=https://raw.github.com/malvira/th12-eagle/master/docs/th12-revD.pdf>
-<img src=https://raw.github.com/malvira/th12-eagle/master/docs/th12-schmatic-thumb.png>
-</a>
+[Schematic PDF](https://raw.github.com/malvira/th12-eagle/master/docs/th12-revD.pdf)
 
 Tag-Connet Header
 -----------------
