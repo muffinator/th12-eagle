@@ -6,7 +6,7 @@ Tag-Connet Header
 
 ### Pinout
 
-![tag-connect-pinout](http://gitlab.devl.org/th12-eagle/blob/master/docs/tc-pinout.png)
+![tag-connect-pinout](https://raw.github.com/malvira/th12-eagle/master/docs/tc-pinout.png)
 
 Boost
 -----
