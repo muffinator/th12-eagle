@@ -1,9 +1,9 @@
 CAD and Docs for the TH12 sensor
 ================================
 
-![tag-connect-pinout](https://raw.github.com/malvira/th12-eagle/master/docs/th12-revD-layout.png)
+![TH12 layout](https://raw.github.com/malvira/th12-eagle/master/docs/th12-revD-layout.png)
 
-[Schematic PDF](https://raw.github.com/malvira/th12-eagle/master/docs/th12-revD.pdf)
+[![TH12 schematic](https://raw.github.com/malvira/th12-eagle/master/docs/th12-schmatic-thumb.png)](https://raw.github.com/malvira/th12-eagle/master/docs/th12-revD.pdf)
 
 Tag-Connet Header
 -----------------
