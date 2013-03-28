@@ -12,8 +12,13 @@ Tag-Connet Header
 
 ![tag-connect-pinout](https://raw.github.com/malvira/th12-eagle/master/docs/tc-pinout.png)
 
-Boost
------
+Firmware
+--------
+
+[Open source firmware](https://github.com/malvira/th-12)
+
+Datasheets
+----------
 [NCP1400](http://www.onsemi.com/pub_link/Collateral/NCP1400A-D.PDF)[digikey](http://www.digikey.com/product-detail/en/NCP1400ASN33T1G/NCP1400ASN33T1GOSCT-ND/2121294)
 
 License
